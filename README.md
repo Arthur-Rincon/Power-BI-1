@@ -1,10 +1,10 @@
 # Power-BI-1
 Power BI Customer Engagement and Sales Analysis 
 
-### Skills
+## Skills
 Power Query Power BI Data Visualization Data Exploration Data Transformation Data Cleaning
 
-### About this project
+## About this project
 
 ### The pages include:
 - Company
