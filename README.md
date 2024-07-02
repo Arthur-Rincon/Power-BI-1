@@ -6,7 +6,7 @@ Power Query Power BI Data Visualization Data Exploration Data Transformation Dat
 
 ### About this project
 
-##The pages include:
+### The pages include:
 - Company
 - Overview
 - Correlation Plots
